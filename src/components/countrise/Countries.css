@@ -1,0 +1,9 @@
+.visited-flag-img img{
+      width: 50px;
+}
+
+.main-container{
+      display: grid;
+      grid-template-columns:3 1fr;
+      border: 3px solid red;
+}
